@@ -1,6 +1,7 @@
 @use '_hero';
 @use '_variables' as *;
 @use '_shows';
+@use '_plans';
 
 @font-face {
     font-family: Avenir;
@@ -64,4 +65,17 @@ body {
 
 .title--small {
     @include title(28px)
+}
+
+.button {
+    display: block;
+    width: 100%;
+    height: 60px;
+    font-size: 18px;
+    color: $corTextoSecundario;
+    background-color: $corButton;
+    text-transform: uppercase;
+    border-radius: 4px;
+    margin-top: 2vw;
+    margin-bottom: 8px;
 }
