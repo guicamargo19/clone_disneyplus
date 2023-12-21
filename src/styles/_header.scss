@@ -1,6 +1,7 @@
 @use 'variables' as *;
 
 .header {
+    padding: 0 5.6vw;
     position: sticky;
     top: 0;
     left: 0;
@@ -22,7 +23,7 @@
     }
 
     &__container {
-        padding: 8px 36px;
+        padding: 8px 0;
         display: flex;
         justify-content: space-between;
 
