@@ -1,3 +1,5 @@
+@use 'variables' as *;
+
 .faq {
     padding: 5.6vw;
 
@@ -20,6 +22,9 @@
                 cursor: pointer;
                 position: relative;
 
+                @media (max-width: 768px) {
+                    padding-right: 60px;
+                }
 
                 &::after {
                     content: '+';
@@ -31,6 +36,10 @@
                     align-items: center;
                     font-size: 40px;
                 }
+
+                &:hover {
+                    color: $corTextoPrincipal;
+                }
             }
 
             &__answer {
@@ -38,6 +47,7 @@
                 overflow: hidden;
                 transition: height, .5s ease;
                 padding: 0 24px;
+                text-align: justify;
 
                 ul {
 
