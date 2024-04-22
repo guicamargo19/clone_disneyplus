@@ -2,7 +2,7 @@
 
 ## Apresentação do projeto
 
-
+https://github.com/guicamargo19/clone_disneyplus/assets/133445061/48bc78b8-c188-4af6-b9c4-6953a5dc8c34
 
 Este site é um clone do site original Disney+, foi desenvolvido em HTML, CSS e JavaScript, oferecendo um design moderno,
 agradável e responsivo. Desenvolvimento do projeto focado em perfomance com uso do pré-processador de CSS SASS e Gulp
@@ -11,7 +11,7 @@ como automatizador de tarefas, como compilação do SASS e compressão de imagen
 Este projeto foi realizado com a aplicação da Metodologia BEM em toda estrutura do projeto, buscando aplicar as
 melhoras práticas de programação para desenvolvimento web.
 
-Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+Projeto desenvolvido durante o curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 ## 🚀 Começando
 
