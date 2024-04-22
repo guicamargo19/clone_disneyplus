@@ -10,6 +10,15 @@
         width: 100%;
         padding-bottom: 20px;
 
+        p>a {
+            color: $corTextoPrincipal;
+            text-decoration: none;
+
+            &:hover {
+                color: $corTextoSecundario;
+            }
+        }
+
         @media (max-width: 768px) {
             width: 90%;
         }
@@ -42,7 +51,11 @@
         }
     }
     p {
-        margin-bottom: 16px
+        margin-bottom: 16px;
+
+        a>strong {
+            color: corTextoSecundario;
+        }
     }
 }
 

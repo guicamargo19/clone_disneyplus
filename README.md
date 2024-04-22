@@ -1,6 +1,8 @@
 # Disney+ Clone Site
 
-<img src="./src/images/disney.png">
+## Apresentação do projeto
+
+
 
 Este site é um clone do site original Disney+, foi desenvolvido em HTML, CSS e JavaScript, oferecendo um design moderno,
 agradável e responsivo. Desenvolvimento do projeto focado em perfomance com uso do pré-processador de CSS SASS e Gulp
@@ -58,7 +60,7 @@ Para ambiente de produção, utilizamos o comando build:
 
 A pasta "dist" será criada com os arquivos minificados para produção.
 
-## 🛠️Ferramentas utilizadas para construção do projeto
+## 🛠️ Ferramentas utilizadas para construção do projeto
 
 * **HTML** - Linguagem de marcação utilizada na construção de páginas na Web.
 * **CSS** - Cascading Style Sheets é um mecanismo para adicionar estilos a uma página web.
